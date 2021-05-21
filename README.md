@@ -25,7 +25,7 @@ Please read [HEAR](EE369.md).
 
 # Answer:
 Q1
-"Training accuracy: 95.87%"
+"Training accuracy: 95.87%"\n
 "Testing accuracy: 89.60%”
 Q2
 "Training accuracy: 84.08%"
